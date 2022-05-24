@@ -1,0 +1,13 @@
+span {
+  color: red;
+}
+
+table {
+  padding: 15px;
+}
+thead {
+  color: red;
+}
+tbody {
+  color: blue;
+}
